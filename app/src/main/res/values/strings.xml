@@ -1,0 +1,50 @@
+<resources>
+    <string name="on_error">Something Went Error!</string>
+    <string name="on_delete">Delete All Articles</string>
+    <string name="on_confirm_delete">Are you sure You want to delete All saved news?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleted">Deleted</string>
+    <string name="undo">UNDO</string>
+
+    <string name="not_found">No Result Found!</string>
+    <string name="saved">Saved</string>
+
+    <string name="app_name">Virtual News</string>
+    <string name="article_image_description">Article Image</string>
+    <string name="swipe_left_to_view_full_article">swipe left for full article >></string>
+    <string name="menu_item_saved">Saved</string>
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_search">Discover</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="headline_dummy_text">Black clover is finally out</string>
+    <string name="content_dummy_text">after a long wait of 1 year finally black clover dcdfdf .</string>
+    <string name="author_dummy_text">Akbarshokh Abdurashidov</string>
+    <string name="date_dummy_text">25 oct 2020</string>
+    <string name="saved_headline_dummy_text">Solo Leveling Chapter 125 release date,time and potential spoilers..</string>
+    <string name="saved_date_dummy_text">31 oct 2020</string>
+    <string name="categories">Categories</string>
+    <string name="clear_selection_mode">clear selection mode</string>
+    <string name="search_news">search news</string>
+    <string name="saved_news">Saved News</string>
+    <string name="delete_all_saved_news">delete all saved news</string>
+    <string name="retry">Retry</string>
+    <string name="choose_country">Choose Country</string>
+    <string name="Uzbekistan">India</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="technolgy">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="change_country">Change Country</string>
+    <string name="share_app">Share App</string>
+    <string name="feedback">Feedback</string>
+    <string name="virtual_news">Virtual News</string>
+    <string name="by_akbarshokh_aburashidov">by Akbarshokh Aburashidov</string>
+    <string name="version_1_0_0">version 1.0.0</string>
+    <string name="change_language">Change Language</string>
+    <string name="choose_language">Choose Language</string>
+</resources>

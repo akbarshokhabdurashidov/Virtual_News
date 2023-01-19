@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="choose_language">Tilni Tanlang</string>
+    <string name="on_error">Nimadir xato ketdi!</string>
+    <string name="on_delete">Barcha maqolalarni o\'chirish</string>
+    <string name="on_confirm_delete">Haqiqatan ham barcha saqlangan yangiliklarni o\ʻchirib tashlamoqchimisiz?</string>
+    <string name="yes">Ha</string>
+    <string name="no">Yo\'q</string>
+    <string name="deleted">O\ʻchirildi</string>
+    <string name="undo">QAYTARISH</string>
+
+    <string name="not_found">Natija topilmadi!</string>
+    <string name="saved">Saqlandi</string>
+
+
+    <string name="app_name">Virtual Yangiliklar</string>
+    <string name="article_image_description">Maqola Tasviri</string>
+    <string name="swipe_left_to_view_full_article">to\'liq maqola uchun chapga suring >></string>
+    <string name="menu_item_saved">Saqlangan</string>
+    <string name="menu_item_home">Uy</string>
+    <string name="menu_item_search">Qidirish</string>
+    <string name="bookmark">Xatcho\'p</string>
+    <string name="categories">Kategoriyalar</string>
+    <string name="clear_selection_mode">tanlash rejimini tozalash</string>
+    <string name="search_news">Yangiliklarni qidirish</string>
+    <string name="saved_news">Saqlangan Yangiliklar</string>
+    <string name="delete_all_saved_news">barcha saqlangan yangiliklarni o\'chirish</string>
+    <string name="retry">Qayta urinish</string>
+    <string name="choose_country">Mamlakatni Tanlang</string>
+    <string name="Uzbekistan">Qo\'shma Shtatlar</string>
+    <string name="business">Biznes</string>
+    <string name="entertainment">O\'yin-kulgi</string>
+    <string name="health">Salomatlik</string>
+    <string name="science">Fan</string>
+    <string name="technolgy">Texnolgiya</string>
+    <string name="sports">Sport</string>
+    <string name="settings">Moslamalar</string>
+    <string name="dark_mode">Qorong\'i Rejim</string>
+    <string name="change_country">Mamlakatni O\'zgartirish</string>
+    <string name="share_app">Ilovani Ulashing</string>
+    <string name="feedback">Aloqa</string>
+    <string name="virtual_news">Virtual Yangiliklar</string>
+    <string name="by_akbarshokh_aburashidov">by Akbarshoh Abdurashidov</string>
+    <string name="version_1_0_0">versiya 1.0.0</string>
+
+    <string name="change_language">Change Language</string>
+
+    <string name="headline_dummy_text">Black clover is finally out</string>
+    <string name="content_dummy_text">after a long wait of 1 year finally black clover dcdfdf .</string>
+    <string name="author_dummy_text">Akbarshokh Abdurashidov</string>
+    <string name="date_dummy_text">25 oct 2020</string>
+    <string name="saved_headline_dummy_text">Solo Leveling Chapter 125 release date,time and potential spoilers..</string>
+    <string name="saved_date_dummy_text">31 oct 2020</string>
+</resources>
